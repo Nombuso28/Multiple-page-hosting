@@ -1,0 +1,26 @@
+body{
+  background: #f8e8a6;
+margin: 0px;  
+  font-family: Arial;
+}
+h1{
+  text-align: center;
+}
+footer a {
+  margin: 0 10px;
+  color: green;
+}
+img{
+align-items: center;
+}
+footer{
+  cursor: pointer;
+    text-decoration: underline;
+    text-align: center;
+    display: block;
+    unicode-bidi: isolate;
+    text-decoration: none;
+}
+P{
+  text-align: center;
+}
