@@ -11,15 +11,14 @@ footer a {
   color: green;
 }
 img{
-align-items: center;
-}
-footer{
+display: block;
+margin: auto;
+}footer{
   cursor: pointer;
     text-decoration: underline;
     text-align: center;
     display: block;
-    unicode-bidi: isolate;
-    text-decoration: none;
+  text-decoration: none;
 }
 P{
   text-align: center;
